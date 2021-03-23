@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full stack web developer. I have knowledge of both front-end and back-end, CSS. JavaScript, React JS, Redux. In node JS backend, postgres, MySQL, Sequelize ORM and GitHub for version control.
-Email:martinc.1@hotmail.com
-Linkedin:https://www.linkedin.com/in/mart%C3%ADn-cavanagh/ 
+Full stack web developer. I have knowledge of both front-end and back-end, CSS. JavaScript, React JS, Redux. In node JS backend, Postgres, MySQL, Sequelize ORM. 
+📫Email:martinc.1@hotmail.com
+💬Linkedin:https://www.linkedin.com/in/mart%C3%ADn-cavanagh/ 
