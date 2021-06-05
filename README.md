@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Full stack web developer. I have knowledge of both front-end and back-end, CSS. JavaScript, React JS, Redux. In node JS backend, Postgres, MySQL, Sequelize ORM. <br/>
-📫Email:martinc.1@hotmail.com <br/>
+
+📫Email:martincavanaghx@gmail.com <br/>
 💬Linkedin:https://www.linkedin.com/in/martincavanagh/<br/>
-🔭 I’m currently working on ec-webft11-g10.vercel.app<br/>
 🌱 I’m currently learning Java<br/>
 
