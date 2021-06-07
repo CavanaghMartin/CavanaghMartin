@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Full stack web developer. I have knowledge of both front-end and back-end;
+Full stack web developer.<br/>
+I have knowledge of both front-end and back-end;<br/>
 In frontend: JavaScript,CSS,HTML, React JS, Redux, Material UI. In backend: Node JS, Postgres, MySQL, Sequelize ORM. <br/>
 
 📫Email:martincavanaghx@gmail.com <br/>
