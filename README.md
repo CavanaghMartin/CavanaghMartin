@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 Full stack web developer.<br/>
 I have knowledge of both front-end and back-end;<br/>
 In frontend: JavaScript,CSS,HTML, React JS, Redux, Material UI.<br/> In backend: Node JS, Postgres, MySQL, Sequelize ORM. <br/>
+🌱 I’m currently learning Java<br/>
+
 
 📫Email:martincavanaghx@gmail.com <br/>
 💬Linkedin:https://www.linkedin.com/in/martincavanagh/<br/>
-🌱 I’m currently learning Java<br/>
 
