@@ -21,6 +21,5 @@ In frontend: JavaScript,CSS,HTML, React JS, Redux, Material UI.<br/> In backend:
 🌱 I’m currently learning Java<br/>
 
 
-📫Email:martincavanaghx@gmail.com <br/>
 💬Linkedin:https://www.linkedin.com/in/martincavanagh/<br/>
 
