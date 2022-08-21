@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🌱 I’m currently learning Java<br/>
+
 -->
 Full stack web developer.<br/>
 I have knowledge of both front-end and back-end;<br/>
-In frontend: JavaScript,CSS,HTML, React JS, Redux, Material UI.<br/> In backend: Node JS, Postgres, MySQL, Sequelize ORM. <br/>
-🌱 I’m currently learning Java<br/>
+In frontend: JavaScript,CSS,HTML, React,React Native, Redux, Material UI.<br/> In backend: Node JS, Postgres, MySQL, Sequelize ORM. <br/>
 
 
 💬Linkedin:https://www.linkedin.com/in/martincavanagh/<br/>
