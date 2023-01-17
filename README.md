@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🌱 I’m currently learning Java<br/>
 
 -->
-Full stack web developer.<br/>
+🧑🏻‍💻Full stack web developer💻.<br/>
 I have knowledge of both front-end and back-end;<br/> 
 JavaScript,Typescript,CSS,HTML, React,React Native, Redux, Material UI,Sass,Hooks,Tailwind, Node, Postgres, MySQL<br/>
 
