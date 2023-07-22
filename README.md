@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 🧑🏻‍💻Full stack web developer.<br/>
 💻I have knowledge of both front-end and back-end;<br/> 
-JavaScript,Typescript,CSS,HTML, React,React Native, Redux, Material UI,Sass,Hooks,Tailwind, Node, Postgres, MySQL<br/>
+Typescript,Javascript,CSS,HTML, React,React Native, Redux, Styled components,Sass,Hooks,Tailwind, Node, Postgres, MySQL<br/>
 
 
 💬Linkedin:https://www.linkedin.com/in/martincavanagh/<br/>
